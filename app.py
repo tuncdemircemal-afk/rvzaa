@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Sayfa ayarlarını yapıyoruz (Tarayıcı sekmesinde isim yazsın)
-st.set_page_config(page_title="Ravza'ya Özel ❤️", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Ravza", layout="wide", initial_sidebar_state="collapsed")
 
 # Streamlit'in kendi gri arayüzünü gizleyip bizim pembe tasarımı eziyoruz
 html_css = """
